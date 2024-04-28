@@ -1,0 +1,6 @@
+-[x] Set up build system with different libraries with a src and test folder in each library
+-[] Write an arena allocator and a temp arena allocator
+-[x] Use Fastor as math library
+-[] Write a nice multipole library for going up to quadrupoles including damping
+-[] Write a tiny library for defining axis frames?
+-[] Make interface with xtb
