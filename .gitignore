@@ -1,3 +1,7 @@
+# Project Specific
+foundation.sublime-project                                  
+foundation.sublime-workspace
+
 # Prerequisites
 *.d
 

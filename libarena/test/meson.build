@@ -1,1 +1,1 @@
-arena_sources_test = files('arena_tests.cpp')
+sources_arena_test = files('arena_tests.cpp')

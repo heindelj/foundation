@@ -1,1 +1,3 @@
-sources_chemlab = files('main.cpp')
+sources_chemlab = files(
+	'main.cpp'
+)
